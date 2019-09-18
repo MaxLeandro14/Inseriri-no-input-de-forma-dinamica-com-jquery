@@ -2,8 +2,8 @@
 
 Formulario onde os itens do select são fornecidos dinamicamente atraves de ajax
 
-Exemplo basico onde selecionando o estado, no select abaixo aparece os municipios desse estado, selecionando os municipios, no select 
-abaixo aparace as cidades e selecionando as cidades aparece os bairros...
+Exemplo basico onde selecionando o estado, no select abaixo aparece os municipios desse estado, selecionando um municipio, no select 
+abaixo aparace as cidades e selecionando um cidade aparece os bairros...
 
 Passos:
 - Baixar os arquivos;
