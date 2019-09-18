@@ -8,8 +8,8 @@ abaixo aparace as cidades e selecionando as cidades aparece os bairros...
 Passos:
 - Baixar os arquivos;
 - Criar banco de dados (mysql ou outro de sua escolha);
-- Exportar as tabelas (contem nos arquivos);
-- Colocar as informaçoes do banco de dados;
+- Exportar as tabelas (contém nos arquivos);
+- Colocar as informações do banco de dados em conexao.php;
 
 
 
