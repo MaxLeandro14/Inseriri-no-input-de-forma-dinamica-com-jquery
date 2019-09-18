@@ -1,13 +1,15 @@
-# Inseriri-no-input-de-forma-dinamica-com-jquery
+# Preenchendo um Select de forma dinâmica
 
-Formulario onde os itens do input aparece dinamicamente atraves de ajax
+Formulario onde os itens do select são fornecidos dinamicamente atraves de ajax
 
-Exemplo basico onde selecionado o estado, no select abaixo aparece os municipios desse estado, selecionando as cidades, no select 
-aparace os bairros desse municipio e selecionando o bairro aparace as praças, assim pode acrescentar novos select...
+Exemplo basico onde selecionando o estado, no select abaixo aparece os municipios desse estado, selecionando os municipios, no select 
+abaixo aparace as cidades e selecionando as cidades aparece os bairros...
 
 Passos:
 - Baixar os arquivos;
-- Criar banco de dados, exportar as tabelas (contem nos arquivos);
+- Criar banco de dados (mysql ou outro de sua escolha);
+- Exportar as tabelas (contem nos arquivos);
+- Colocar as informaçoes do banco de dados;
 
 
 
